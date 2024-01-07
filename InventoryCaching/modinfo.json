@@ -1,0 +1,21 @@
+{
+  "name": "Inventory Caching",
+  "author": "Aidanamite",
+  "description": "Does some background item count caching to save some FPS",
+  "version": "1.0.2",
+  "license": "GNU AGPLv3",
+  "icon": "icon.png",
+  "banner": "banner.jpg",
+  "gameVersion": "1.0",
+  "requiredByAllPlayers": false,
+  "updateUrl": "https://www.raftmodding.com/api/v1/mods/inventory-caching/version.txt",
+  "isModPermanent": false,
+  "excludedFiles": [],
+  "modSettings": [
+    {
+      "name": "clear",
+      "text": "Clear Cache",
+      "type": "button"
+    }
+  ]
+}
